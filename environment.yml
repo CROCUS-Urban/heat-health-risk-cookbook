@@ -7,4 +7,11 @@ dependencies:
   - jupyter_server
   - pip
   - pip:
-      - sphinx-pythia-theme
+      - numpy
+      - pandas
+      - geopandas
+      - sage_data_client
+      - matplotlib
+      - matplotlib.dates
+      - metpy.calc
+      - metpy.units
