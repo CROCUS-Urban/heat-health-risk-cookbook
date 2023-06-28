@@ -5,13 +5,11 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - jupyter_server
+  - geopandas
+  - numpy
+  - pandas
+  - matplotlib
+  - metpy
   - pip
   - pip:
-      - numpy
-      - pandas
-      - geopandas
       - sage_data_client
-      - matplotlib
-      - matplotlib.dates
-      - metpy.calc
-      - metpy.units
