@@ -5,6 +5,11 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - jupyter_server
+  - geopandas
+  - numpy
+  - pandas
+  - matplotlib
+  - metpy
   - pip
   - pip:
-      - sphinx-pythia-theme
+      - sage_data_client

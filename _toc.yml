@@ -7,3 +7,14 @@ parts:
   - caption: Introduction
     chapters:
       - file: notebooks/notebook-template
+  - caption: Data Pre-processing
+    chapters:
+      - file: notebooks/data_cleaning/*
+  - caption: Heat Index
+    chapters:
+      - file: notebooks/calc_heat_index
+  - caption: Spatial Analysis: Susceptibility and Adaptive Capacity
+    chapters:
+      - file: public_health_indicators
+      - file: air_conditioning
+
